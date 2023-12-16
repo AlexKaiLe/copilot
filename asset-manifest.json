@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/copilot/static/css/main.799c24ad.css",
+    "main.js": "/copilot/static/js/main.89f1d57a.js",
+    "static/js/787.71910690.chunk.js": "/copilot/static/js/787.71910690.chunk.js",
+    "index.html": "/copilot/index.html",
+    "main.799c24ad.css.map": "/copilot/static/css/main.799c24ad.css.map",
+    "main.89f1d57a.js.map": "/copilot/static/js/main.89f1d57a.js.map",
+    "787.71910690.chunk.js.map": "/copilot/static/js/787.71910690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799c24ad.css",
+    "static/js/main.89f1d57a.js"
+  ]
+}
